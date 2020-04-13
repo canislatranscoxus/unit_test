@@ -1,0 +1,5 @@
+﻿ID,description,expected_result,param_n
+0,case_foo,1,1
+1,case_x,4,2
+2,case_y,25,5
+3,case_z,36,-6
